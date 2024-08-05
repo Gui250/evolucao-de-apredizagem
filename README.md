@@ -29,3 +29,28 @@
  - Aprendi como criar um perfil no Linkedin e as melhores práticas para se portar na plataforma
  - Aprendi os comandos básicos de git como manipulação branchs, fork e etc
  - Aprendi a utilizar Typescript e JavaScript em questões como criação de arrays, variáves e tipos de dados
+
+--- 
+# Evolução-de-aprendizagem-módulo-2
+
+# Conteúdos a serem abordados nesse módulo:
+- Funções
+- Tipos de dados
+- Tipos utilitários
+- Métodos de Strings
+- Métodos de Arrays
+- Linkedin
+- Métodologias Ágeis
+
+# O que quero aprender sobre os assuntos que serão abordados nessse módulo?
+- Como utilizar funções em TypeScript/JavaScript
+- Boas práticas para um melhor código
+- Métodos de Arrays
+- Como me portar no Linkedin
+
+# Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+- Aprendi a criar um perfil no Linkedin e o que deve ser feito
+- Aprendi a utilizar funções no JavaScript
+- Scrum
+- Métodos de Arrays
+- Tipos Utilitários
